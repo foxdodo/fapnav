@@ -10,7 +10,15 @@
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
-    "placeholder": "百度一下",
+    "placeholder": "百度搜索",
+    "blocked": false,
+    "isInner": false
+  },
+  {
+    "name": "Duckduckgo",
+    "url": "https://duckduckgo.com/?q=",
+    "icon": "https://raw.sevencdn.com/foxdodo/fapnav/image/duckduckgo.svg",
+    "placeholder": "鸭子搜索",
     "blocked": false,
     "isInner": false
   },
@@ -29,28 +37,5 @@
     "blocked": false,
     "isInner": false,
     "placeholder": "必应搜索"
-  },
-  {
-    "name": "GitHub",
-    "url": "https://github.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/github.svg",
-    "placeholder": "Search GitHub",
-    "blocked": true,
-    "isInner": false
-  },
-  {
-    "name": "知乎",
-    "url": "https://www.zhihu.com/search?type=content&q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
-    "blocked": true,
-    "isInner": false
-  },
-  {
-    "name": "豆瓣",
-    "url": "https://search.douban.com/book/subject_search?search_text=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
-    "placeholder": "书名、作者、ISBN",
-    "blocked": true,
-    "isInner": false
   }
 ]
