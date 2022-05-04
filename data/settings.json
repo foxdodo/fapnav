@@ -15,19 +15,13 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
       "src": "https://fap.coding.net/p/fapgo/d/fapgo/git/raw/master/images/2022/05/04/19_09_37_mass-effect-normandy-background1.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://fap.coding.net/p/fapgo/d/fapgo/git/raw/master/images/2022/05/04/22_36_14_watt_engine2.jpg",
+      "src": "https://fap.coding.net/p/fapgo/d/fapgo/git/raw/master/images/2022/05/04/23_17_23_watt_engine_v4.png",
       "url": "",
       "width": null,
       "height": null
@@ -38,19 +32,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
       "src": "https://fap.coding.net/p/fapgo/d/fapgo/git/raw/master/images/2022/05/04/19_09_37_mass-effect-normandy-background1.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://fap.coding.net/p/fapgo/d/fapgo/git/raw/master/images/2022/05/04/22_36_14_watt_engine2.jpg",
+      "src": "https://fap.coding.net/p/fapgo/d/fapgo/git/raw/master/images/2022/05/04/23_17_23_watt_engine_v4.png",
       "url": "",
       "width": null,
       "height": null
@@ -61,7 +49,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1651677553186-watt_engine_v4.png",
       "url": "",
       "width": null,
       "height": null
