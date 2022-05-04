@@ -28,7 +28,7 @@
     }
   ],
   "simThemeDesc": "",
-  "simThemeHeight": 350,
+  "simThemeHeight": 450,
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
@@ -49,7 +49,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1651677553186-watt_engine_v4.png",
+      "src": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1651678005108-mass-effect-normandy-background1.jpg",
       "url": "",
       "width": null,
       "height": null
