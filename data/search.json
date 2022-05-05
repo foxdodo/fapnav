@@ -1,10 +1,11 @@
 [
   {
-    "name": "站内搜索",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
-    "placeholder": "站内搜索",
+    "name": "必应",
+    "url": "https://cn.bing.com/search?q=",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
     "blocked": false,
-    "isInner": true
+    "isInner": false,
+    "placeholder": "必应搜索"
   },
   {
     "name": "百度",
@@ -31,11 +32,10 @@
     "placeholder": "谷歌搜索"
   },
   {
-    "name": "必应",
-    "url": "https://cn.bing.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
+    "name": "站内搜索",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "placeholder": "站内搜索",
     "blocked": false,
-    "isInner": false,
-    "placeholder": "必应搜索"
+    "isInner": true
   }
 ]
