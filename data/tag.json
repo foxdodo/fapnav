@@ -1,4 +1,16 @@
 {
+  "Twitter": {
+    "createdAt": "2022-05-17T14:31:37.448Z",
+    "color": "#0076f5",
+    "desc": "推特Twitter",
+    "isInner": false
+  },
+  "YouTube": {
+    "createdAt": "2022-05-17T14:31:14.646Z",
+    "color": "#f50000",
+    "desc": "油管YouTube",
+    "isInner": false
+  },
   "镜像站": {
     "createdAt": "2022-05-17T14:21:00.283Z",
     "color": "#00f549",
