@@ -1,4 +1,10 @@
 {
+  "镜像站3": {
+    "createdAt": "2022-05-18T04:52:36.197Z",
+    "color": "#28d006",
+    "desc": "备用镜像站点地址",
+    "isInner": false
+  },
   "镜像站2": {
     "createdAt": "2022-05-17T14:45:55.452Z",
     "color": "#10f500",
@@ -7,7 +13,7 @@
   },
   "Twitter": {
     "createdAt": "2022-05-17T14:31:37.448Z",
-    "color": "#0076f5",
+    "color": "#3898ff",
     "desc": "推特Twitter",
     "isInner": false
   },
