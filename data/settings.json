@@ -45,5 +45,16 @@
   ],
   "showLanguage": false,
   "showRate": false,
-  "mirrorList": []
+  "mirrorList": [
+    {
+      "url": "https://fapcraft.ml",
+      "icon": "",
+      "name": "镜像站1"
+    },
+    {
+      "url": "https://fapcloud.ml",
+      "icon": "",
+      "name": "镜像站2"
+    }
+  ]
 }
