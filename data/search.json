@@ -32,6 +32,22 @@
     "placeholder": "谷歌搜索"
   },
   {
+    "name": "Yandex",
+    "url": "https://yandex.com/search/?text=",
+    "icon": "https://npm.elemecdn.com/fap-icon@latest/yandex.png",
+    "placeholder": "毛子搜索",
+    "blocked": false,
+    "isInner": false
+  },
+  {
+    "name": "Brave",
+    "url": "https://search.brave.com/search?q=",
+    "icon": "https://npm.elemecdn.com/fap-icon@latest/brave.ico",
+    "placeholder": "Brave搜索",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "站内搜索",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
     "placeholder": "站内搜索",
