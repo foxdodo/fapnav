@@ -26,7 +26,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://npm.elemecdn.com/fap-img-1@latest/mass-effect-normandy.jpg",
+      "src": "https://fastly.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1661070498629-mass-effect-normandy.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -37,7 +37,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1651767356851-sea1_v3.jpg",
+      "src": "https://fastly.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1661070488292-sea_v1.jpg",
       "url": "",
       "width": null,
       "height": null
