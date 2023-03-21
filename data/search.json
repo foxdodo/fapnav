@@ -18,7 +18,7 @@
   {
     "name": "Duckduckgo",
     "url": "https://duckduckgo.com/?q=",
-    "icon": "https://npm.arcitcgn.cn/fap-icon@latest/duckduckgo.svg",
+    "icon": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1679387496306-duckduckgo.svg",
     "placeholder": "鸭子搜索",
     "blocked": false,
     "isInner": false
@@ -26,7 +26,7 @@
   {
     "name": "谷歌",
     "url": "https://www.google.com/search?q=",
-    "icon": "https://npm.arcitcgn.cn/fap-icon@latest/google.ico",
+    "icon": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1679387507674-google.ico",
     "blocked": false,
     "isInner": false,
     "placeholder": "谷歌搜索"
@@ -34,7 +34,7 @@
   {
     "name": "Yandex",
     "url": "https://yandex.com/search/?text=",
-    "icon": "https://npm.arcitcgn.cn/fap-icon@latest/yandex.png",
+    "icon": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1679387512448-yandex.png",
     "placeholder": "毛子搜索",
     "blocked": false,
     "isInner": false
@@ -42,7 +42,7 @@
   {
     "name": "Brave",
     "url": "https://search.brave.com/search?q=",
-    "icon": "https://npm.arcitcgn.cn/fap-icon@latest/brave.ico",
+    "icon": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1679387519402-brave.ico",
     "placeholder": "Brave搜索",
     "blocked": false,
     "isInner": false
