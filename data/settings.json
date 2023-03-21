@@ -37,7 +37,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://raw.fastgit.org/foxdodo/fapnav/main/img/sea_v1.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1679388462098-sea_v1.jpg",
       "url": "",
       "width": null,
       "height": null
