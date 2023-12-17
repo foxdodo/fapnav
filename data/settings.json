@@ -47,12 +47,12 @@
   "showRate": false,
   "mirrorList": [
     {
-      "url": "https://fapcloud.eu.org",
+      "url": "https://nav.fapcloud.cf",
       "icon": "",
       "name": "镜像站2"
     },
     {
-      "url": "https://fapcraft.eu.org",
+      "url": "https://fapcraft.free.hr",
       "icon": "",
       "name": "镜像站3"
     },
@@ -60,6 +60,11 @@
       "url": "https://fapnav.netlify.app",
       "icon": "",
       "name": "镜像站1"
+    },
+    {
+      "url": "https://nav.fapcraft.cloudns.org",
+      "icon": "",
+      "name": "镜像站4"
     }
   ]
 }
