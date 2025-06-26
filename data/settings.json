@@ -15,7 +15,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1750907888673-mass-effect-normandy.jpg",
+      "src": "https://testingcf.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1750907888673-mass-effect-normandy.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -26,7 +26,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1750907888673-mass-effect-normandy.jpg",
+      "src": "https://testingcf.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1750907888673-mass-effect-normandy.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -37,7 +37,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1679388462098-sea_v1.jpg",
+      "src": "https://testingcf.jsdelivr.net/gh/foxdodo/fapnav@image/nav-1679388462098-sea_v1.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -50,11 +50,6 @@
       "url": "https://nav.fapcloud.cf",
       "icon": "",
       "name": "镜像站2"
-    },
-    {
-      "url": "https://fapcraft.free.hr",
-      "icon": "",
-      "name": "镜像站3"
     },
     {
       "url": "https://fapnav.netlify.app",
