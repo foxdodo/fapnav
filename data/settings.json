@@ -55,6 +55,11 @@
       "url": "https://fapnav.netlify.app",
       "icon": "",
       "name": "镜像站1"
+    },
+    {
+      "url": "https://nav.fap.edu.deal",
+      "icon": "",
+      "name": "镜像站3"
     }
   ]
 }
